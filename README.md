@@ -1,12 +1,12 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <h1 align="center">Hi 👋, I'm Muhammed Ali Yakışık</h1>
-<h3 align="center">A curious and ambitious Android developer from Turkey</h3>
+<h3 align="center">A curious and ambitious Flutter developer from Turkey</h3>
 <img align="right" alt="Coding" width"400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM1dzF0cWR5anlhemxreG5scGxkNG9kb3B4Z3E4ejk5bmkzc3Z0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedaliyakisik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedaliyakisik" /> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Dart and Flutter**
 
 - 📫 How to reach me **muhammedali8799@gmail.com**
 
