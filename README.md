@@ -1,9 +1,9 @@
-![flutter-dart](https://github.com/MuhammedAliYakisik/MuhammedAliYakisik/assets/129868370/ba54ce4a-e386-44b4-8a30-f3029c8e32a6)
+![flutter-dart](https://github.com/MuhammedAliYakisik/MuhammedAliYakisik/assets/129868370/1591c0e7-a7df-4600-a6f3-320c0dc73522)
 
 
 <h1 align="center">Hi 👋, I'm Muhammed Ali Yakışık</h1>
 <h3 align="center">A curious and ambitious Flutter developer from Turkey</h3>
-<img align="right" alt="Coding" width"400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmM1dzF0cWR5anlhemxreG5scGxkNG9kb3B4Z3E4ejk5bmkzc3Z0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif">
+<img align="right" alt="Coding" width"400"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedaliyakisik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedaliyakisik" /> </p>
 
