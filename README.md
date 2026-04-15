@@ -1,10 +1,11 @@
-![flutter-dart](https://github.com/MuhammedAliYakisik/MuhammedAliYakisik/assets/129868370/1591c0e7-a7df-4600-a6f3-320c0dc73522)
+<img width="631" height="369" alt="Ekran görüntüsü 2026-04-15 232134" src="https://github.com/user-attachments/assets/dd5acd73-2749-4cef-b83b-1ba4496fdb46" />
 
-<h1 align="center">Hi 👋, I'm Muhammed Ali Yakışık</h1>
+
+<h1 align="center"> Muhammed Ali Yakışık</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedaliyakisik&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedaliyakisik" /> </p>
 
-- 🌱 I’m currently learning **Dart and Flutter**
+-  **Dart - Flutter - Kotlin**
 
 - 📫 How to reach me **muhammedali8799@gmail.com**
 
